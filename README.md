@@ -1,6 +1,8 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-wael-1357&layout=compact&theme=vision-friendly-dark)](https://github.com/abdelrahman-wael-1357)
-<!--
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-wael-1357&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-wael-1357&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+</div><!--
 **abdelrahman-wael-1357/abdelrahman-wael-1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
